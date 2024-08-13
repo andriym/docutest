@@ -8,7 +8,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Static Web Apps Site',
+  title: 'My Static Web Apps First Site',
   tagline: 'Dinosaurs are cool',
   favicon: 'img/favicon.ico',
 
